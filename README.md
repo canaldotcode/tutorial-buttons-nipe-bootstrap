@@ -7,5 +7,5 @@ Link do tutorial:
 [Criando Botões Bonitos Nipe Bootstrap](https://youtu.be/lWA76-AHkmoe)
 
 Ainda não conhece o Canal .Code?
-Da uma zoiada no canal: [.code](https://dotcode.net.br/youtube);
-E no nosso Facebook: http://facebook.com/canaldotcode
+* Da uma zoiada no canal: [.code](https://dotcode.net.br/youtube);
+* E no nosso Facebook: http://facebook.com/canaldotcode
